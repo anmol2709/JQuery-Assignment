@@ -1,0 +1,81 @@
+
+.carousel-inner > .item > img {
+    width: 100%;
+    margin: auto;
+}
+
+
+
+.listing{
+  font-size:23px ;
+
+}
+
+.listing li{
+  border:2px solid black;
+  padding: 10px;
+  margin-left:10px;
+}
+
+.bg1 {
+  background-size: 100%;
+    background-image: url('bg.jpg');
+}
+
+.bgimg {
+  padding: 0.5%;
+  background-size: 100%;
+    background-image: url('bgjpg.jpg');
+}
+
+.cnt
+{
+padding:1%;
+text-align:center;
+}
+
+h2{
+font-style: italic;
+font-family: sans-serif;
+color:#FF0000;
+}
+
+.imgset
+{
+ padding: 15px;
+ width:70%;
+border-radius: 20%;
+}
+
+.brdrset{
+margin:2.5%;
+padding : 2px;
+border: 4px dashed grey
+}
+
+.bdr{
+margin-top:0.5%;
+border: 4px dashed grey
+}
+
+.pop{
+color:#2B3856;
+font-size: 4px;
+}
+
+.clr{
+background-color: blue;
+font-style: italic;
+font-family: sans-serif;
+color:black;
+}
+
+.icon{
+font-size:48px;
+padding:1%;
+}
+
+.btn{
+  font-size: 15px;
+  color:red;
+}
